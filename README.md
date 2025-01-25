@@ -1,5 +1,5 @@
 # homework
-
+i will work on note page section to include firebase to store the data int database soon..
 A new Flutter project.
 
 ## Getting Started
